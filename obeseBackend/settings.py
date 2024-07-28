@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-3a4!t5h0^6t@tnmvnuc#17akh(kwlt$=%f#$evcs9rx(&r_q^e
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['obeseSurvey.com', 'www.obeseSurvey.com','127.0.0.1']
+ALLOWED_HOSTS = ['obeseSurvey.com', 'www.obeseSurvey.com','127.0.0.1','obesesurveybackend.onrender.com']
 
 
 
